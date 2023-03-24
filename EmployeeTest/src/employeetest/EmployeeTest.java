@@ -24,6 +24,7 @@ public class EmployeeTest {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        System.out.println("This would be my first change and my first commit on GitHub");
      /* The next block of code creates the 3 employees for our test and an extra two employees with the default constructor
         in order to test its functionality. */
         Employee emp1 = new Employee("Joe Bloggs", "jb@gmail.com");
