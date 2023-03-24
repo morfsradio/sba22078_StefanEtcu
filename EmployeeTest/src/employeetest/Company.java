@@ -20,7 +20,7 @@ public class Company {
         - Initializes the name with a default name
         - Creates a new ArrayList object for storing employees.*/
     public Company() {
-        this.companyName = "default_Company_Name";
+        this.companyName = "default_Company_Name!";
         this.staffMembers = new ArrayList<>();
     }
     
