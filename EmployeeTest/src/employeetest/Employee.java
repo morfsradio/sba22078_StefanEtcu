@@ -37,7 +37,7 @@ public class Employee {
         this.empNum = nextEmpNum;
         this.name = name;
         this.email = email;
-        nextEmpNum += 1;
+        nextEmpNum += 2;
     }
     
  /* Getter method for the Name - takes no parameters and returns employee's name. */
