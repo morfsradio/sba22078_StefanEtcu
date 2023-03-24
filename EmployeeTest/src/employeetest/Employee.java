@@ -26,7 +26,7 @@ public class Employee {
         this.empNum = nextEmpNum;
         this.name = "Default_System_Name_"; //+ this.empNum;
         this.email = "Default_System_Email_"; // + this.empNum;
-        nextEmpNum += 1;
+        nextEmpNum += 2;
     }
     
  /* Overloaded constructor (takes name and email as parameters):
